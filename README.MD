@@ -1,4 +1,4 @@
-*Hi, I'm CSWAG, a Full Stack Developer located in UK, mainly working on websites, I have previously worked on FiveM resources, Discord bots,and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
+*Hi, I'm CSWAG, a Full Stack Developer located in UK, mainly working on websites, I have previously worked on FiveM resources, Discord bots,and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online..*
 
 *Feel free to shoot me a follow or star some repositories!*
 
@@ -31,16 +31,17 @@
 
 ```text
 💬 Programming Languages: 
-LUA                      70 hrs 12 mins       ████████████████████████   100.00% 
-JavaScript               30 hrs 8 mins       █████████████████████░░░░   87.03% 
-C#                       20 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+LUA                    
+JavaScript
+CSS
+C#                    
 
 
 🔥 Editors: 
-VS Code                  34 hrs 38 mins      █████████████████████████   100.0%
+VS Code                       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Wraith V3                 34 hrs 32 mins      █████████████████████████   99.71% 
-Inventory System NP Based 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+Wraith V3                  
+Inventory System NP Based
 
 ```
