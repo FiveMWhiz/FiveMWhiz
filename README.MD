@@ -32,7 +32,9 @@
 LUA                    
 JavaScript
 CSS
-C#                    
+C#
+C++
+
 
 
 🔥 Editors: 
