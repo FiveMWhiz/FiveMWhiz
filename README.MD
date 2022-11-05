@@ -22,7 +22,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-[![StreetDevlar's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlycs)](https://github.com/anuraghazra/github-readme-stats)
+[![StreetDevlar GitHub stats](https://github-readme-stats.vercel.app/api?username=onlycs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📊 **This Week I Spent My Time On** 
@@ -43,5 +43,6 @@ VS Code                       ████████████████�
 🐱‍💻 Projects: 
 Wraith V3                  
 Inventory System NP Based
+LUA, Standalone FiveM Dog Script
 
 ```
