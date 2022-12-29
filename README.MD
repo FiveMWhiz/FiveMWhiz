@@ -1,4 +1,4 @@
-*Hi, I'm Devlar, a Full Stack Developer located in UK, mainly working on websites, I have previously worked on FiveM resources, Discord bots,and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online..*
+*Hi, I'm Zeus, a Full Stack Developer located in UK, mainly working on websites, I have previously worked on FiveM resources, Discord bots,and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online..*
 
 *Feel free to shoot me a follow or star some repositories!*
 
@@ -22,7 +22,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-[![StreetDevlar GitHub stats](https://github-readme-stats.vercel.app/api?username=onlycs)](https://github.com/anuraghazra/github-readme-stats)
+[![akaZeus GitHub stats](https://github-readme-stats.vercel.app/api?username=onlycs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📊 **This Week I Spent My Time On** 
@@ -41,8 +41,10 @@ C++
 VS Code                       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Wraith V3                  
+Wraith V3     
 Inventory System NP Based
 LUA, Standalone FiveM Dog Script
+UI Design
+Mechanic JOB with Custom Parts
 
 ```
