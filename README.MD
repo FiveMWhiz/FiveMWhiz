@@ -22,7 +22,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-[![akaZeus GitHub stats](https://github-readme-stats.vercel.app/api?username=onlycs)](https://github.com/anuraghazra/github-readme-stats)
+[![akaZeus GitHub stats](https://github-readme-stats.vercel.app/api?username=akaZeus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📊 **This Week I Spent My Time On** 
