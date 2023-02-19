@@ -25,7 +25,6 @@
 [![DrTune GitHub stats](https://github-readme-stats.vercel.app/api?username=DrTunne)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -41,10 +40,9 @@ C++
 VS Code                       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Wraith V3     
-Inventory System NP Based
-LUA, Standalone FiveM Dog Script
-UI Design
-Mechanic JOB with Custom Parts
+QB Core Inventory 
+FiveM - K9 DOG Script
+External Security Bot
+Invision Website Bot
 
 ```
