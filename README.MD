@@ -40,10 +40,10 @@ C++
 VS Code                       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-QB Core Inventory 
-FiveM - K9 DOG Script
-External Security Bot
-Invision Website Bot
-FiveM Graphic Mod
+💼 QB Core Inventory 
+🐶 FiveM - K9 DOG Script
+🤖 External Security Bot
+🤖 Invision Website Bot
+🌇 Highlife Graphics Pack (FiveM Graphic MOD)
 
 ```
