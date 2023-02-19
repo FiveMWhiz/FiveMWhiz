@@ -1,4 +1,4 @@
-*Hi, I'm Zeus, a Full Stack Developer located in UK, mainly working on websites, I have previously worked on FiveM resources, Discord bots,and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online..*
+*Hi, I'm Dr.Tune, a Full Stack Developer located in UK, mainly working on websites, I have previously worked on FiveM resources, Discord bots,and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online..*
 
 *Feel free to shoot me a follow or star some repositories!*
 
@@ -22,7 +22,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-[![akaZeus GitHub stats](https://github-readme-stats.vercel.app/api?username=akaZeus)](https://github.com/anuraghazra/github-readme-stats)
+[![DrTune GitHub stats](https://github-readme-stats.vercel.app/api?username=akaZeus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📊 **This Week I Spent My Time On** 
