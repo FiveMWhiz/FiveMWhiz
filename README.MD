@@ -21,8 +21,6 @@
 
 <!--START_SECTION:waka-->
 (![DrTunne's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrTunne&show_icons=true&theme=synthwave) 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
-
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
