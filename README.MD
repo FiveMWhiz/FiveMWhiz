@@ -24,7 +24,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-[![DrTune GitHub stats](https://github-readme-stats.vercel.app/api?username=DrTunne)](https://github.com/anuraghazra/github-readme-stats)
+[![DrTune GitHub stats](![DrTunne's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrTunne&show_icons=true&theme=synthwave))
 
 
 📊 **this week i spent my time on:**
