@@ -20,7 +20,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-(![DrTunne's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrTunne&show_icons=true&theme=synthwave) 
+(![FiveMWhiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiveMWhiz&show_icons=true&theme=synthwave) 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
